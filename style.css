@@ -333,3 +333,16 @@ p.chapter {
 .title a {
 	font-weight: 500;
 }
+
+body > main > div > section:nth-child(2) > div > div > div{
+	border: 1px solid #cabebcef !important;
+    padding: 0px 20px 0px 20px
+}
+
+body > main > div > section:nth-child(2) > div > div > div:nth-child(1){
+	margin-bottom: 20px;
+}
+
+body > main > div > section:nth-child(2) > div > div > div:nth-child(2){
+	margin-bottom: 20px;
+}

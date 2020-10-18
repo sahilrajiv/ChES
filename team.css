@@ -23,6 +23,9 @@
     max-width: 400px;
     margin: 0 auto;
     margin-bottom: 30px;
+    position: sticky;
+    top: -60px;
+    z-index: 1;
 }
 
 .menu {
